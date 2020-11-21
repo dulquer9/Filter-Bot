@@ -28,9 +28,9 @@ from bot.modules.connection import connect_button
 
 PM_START_TEXT = """
 *Hello* *{}*
-*My name is* *{}*\n\n`You Can Add any kind of Filters to This Bot!`
-
-_Click Help button for more details_
+Sorry..This Bot Can Only Be Used in [Movie Club Group](t.me/MOVIECLUB_CHAT)!..
+Join To [Movie Club Group](t.me/MOVIECLUB_CHAT) For Your Desired Movies.
+Maintained by[MovieClub Admin](t.me/Movieclub_Admin)
 """
 
 
