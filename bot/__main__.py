@@ -27,10 +27,7 @@ from bot.modules.connection import connect_button
 
 
 PM_START_TEXT = """
-*Hello* *{}*
-Sorry..This Bot Can Only Be Used in [Movie Club Group](t.me/MOVIECLUB_CHAT)!..
-Join To [Movie Club Group](t.me/MOVIECLUB_CHAT) For Your Desired Movies.
-Maintained by [MovieClub Admin](t.me/Movieclub_Admin)
+Sorry.. This Bot Can Only Be Used in [Movie Club Group](t.me/MOVIECLUB_CHAT)!...
 """
 
 
